@@ -1,0 +1,2 @@
+*.fianal[[:space:]]pr filter=lfs diff=lfs merge=lfs -text
+*.final[[:space:]]pr filter=lfs diff=lfs merge=lfs -text
